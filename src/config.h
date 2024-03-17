@@ -1,0 +1,20 @@
+#ifndef _CONFIG_H_
+#define _CONFIG_H_
+
+#define GRAPH_VERTICES_COUNT 281
+#define GRAPH_EDGES_COUNT 346
+#define TASK_COUNT 105
+#define ROUTE_COUNT 2670
+#define STATION_COUNT 68 
+#define DOCKING_LATENCY 158
+
+//#define SHOW_EDGE
+//#define SHOW_TASK
+
+#define SIM_SPEED_US 2000
+#define SIM_GCLK_MAX 100000
+#define SIM_GCLK_BYPASS 1000
+#define SIM_STORAGE_MAX 100000
+#define SIM_STORAGE_BYPASS 200
+
+#endif
